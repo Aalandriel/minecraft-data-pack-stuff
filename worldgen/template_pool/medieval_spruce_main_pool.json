@@ -1,0 +1,24 @@
+{
+  "name": "minecolonies:main_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 90,
+      "element": {
+        "location": "minecolonies:medieval_spruce_builder1",
+        "processors": "minecolonies:placeholder_replacement",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecolonies:medieval_spruce_builder2",
+        "processors": "minecolonies:placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+ ]
+}
