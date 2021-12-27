@@ -1,0 +1,39 @@
+{
+  "name": "minecolonies:medieval_spruce/roads",
+  "fallback": "minecolonies:medieval_spruce/terminators",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecolonies:medieval_spruce/roads_crossroads_01",
+        "processors": "minecolonies:medieval_spruce/street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "minecolonies:medieval_spruce/roads_straight_01",
+        "processors": "minecolonies:medieval_spruce/street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecolonies:medieval_spruce/roads_turn_01",
+        "processors": "minecolonies:medieval_spruce/street",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}
