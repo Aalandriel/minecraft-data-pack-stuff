@@ -32,7 +32,7 @@
             "Name": "minecraft:cobweb"
           },
           "input_predicate": {
-            "block": "minecraft:oak_log",
+            "block": "minecraft:birch_log",
             "probability": 0.04,
             "predicate_type": "minecraft:random_block_match"
           },
@@ -45,7 +45,7 @@
             "Name": "minecraft:cobweb"
           },
           "input_predicate": {
-            "block": "minecraft:oak_planks",
+            "block": "minecraft:spruce_planks",
             "probability": 0.02,
             "predicate_type": "minecraft:random_block_match"
           },
@@ -58,8 +58,8 @@
             "Name": "minecraft:air"
           },
           "input_predicate": {
-            "block": "minecraft:oak_planks",
-            "probability": 0.2,
+            "block": "minecraft:spruce_planks",
+            "probability": 0.03,
             "predicate_type": "minecraft:random_block_match"
           },
           "location_predicate": {
@@ -71,7 +71,20 @@
             "Name": "minecraft:air"
           },
           "input_predicate": {
-            "block": "minecraft:oak_slab",
+            "block": "minecraft:spruce_slab",
+            "probability": 0.03,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        },
+        {
+          "output_state": {
+            "Name": "minecraft:air"
+          },
+          "input_predicate": {
+            "block": "minecraft:spruce_stairs",
             "probability": 0.2,
             "predicate_type": "minecraft:random_block_match"
           },
@@ -85,19 +98,6 @@
           },
           "input_predicate": {
             "block": "minecraft:oak_stairs",
-            "probability": 0.2,
-            "predicate_type": "minecraft:random_block_match"
-          },
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          }
-        },
-        {
-          "output_state": {
-            "Name": "minecraft:air"
-          },
-          "input_predicate": {
-            "block": "domum_ornamentum:shingle",
             "probability": 0.2,
             "predicate_type": "minecraft:random_block_match"
           },
