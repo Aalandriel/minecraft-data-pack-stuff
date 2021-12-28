@@ -5,28 +5,10 @@
     {
       "weight": 10,
       "element": {
-        "location": "minecolonies:medieval_dark_oak/housex1",
-        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "minecolonies:medieval_dark_oak/housex2",
-        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 10,
-      "element": {
         "location": "minecolonies:medieval_dark_oak/builder1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
 		    "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -35,34 +17,16 @@
         "location": "minecolonies:medieval_dark_oak/builder2",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
       "weight": 10,
       "element": {
-        "location": "minecolonies:medieval_dark_oak/house1",
-        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "minecolonies:medieval_dark_oak/house2",
-        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 8,
-      "element": {
         "location": "minecolonies:medieval_dark_oak/cook1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -71,7 +35,7 @@
         "location": "minecolonies:medieval_dark_oak/courier1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -80,7 +44,7 @@
         "location": "minecolonies:medieval_dark_oak/farm1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -89,7 +53,7 @@
         "location": "minecolonies:medieval_dark_oak/forester1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -98,16 +62,16 @@
         "location": "minecolonies:medieval_dark_oak/forester2",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
-      "weight": 5,
+      "weight": 12,
       "element": {
         "location": "minecolonies:medieval_dark_oak/guardtower1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -116,7 +80,43 @@
         "location": "minecolonies:medieval_dark_oak/guardtower2",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecolonies:medieval_dark_oak/house1",
+        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecolonies:medieval_dark_oak/house2",
+        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecolonies:medieval_dark_oak/housex1",
+        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecolonies:medieval_dark_oak/housex2",
+        "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -125,7 +125,7 @@
         "location": "minecolonies:medieval_dark_oak/mine1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -134,7 +134,7 @@
         "location": "minecolonies:medieval_dark_oak/tavern1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -143,7 +143,7 @@
         "location": "minecolonies:medieval_dark_oak/warehouse1",
         "processors": "minecolonies:medieval_dark_oak/placeholder_replacement",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {

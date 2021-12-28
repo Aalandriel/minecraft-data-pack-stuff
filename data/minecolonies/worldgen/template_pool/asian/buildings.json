@@ -5,24 +5,6 @@
     {
       "weight": 10,
       "element": {
-        "location": "minecolonies:asian/housex1",
-        "processors": "minecolonies:asian/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "minecolonies:asian/housex2",
-        "processors": "minecolonies:asian/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 10,
-      "element": {
         "location": "minecolonies:asian/builder1",
         "processors": "minecolonies:asian/placeholder_replacement",
 		    "projection": "rigid",
@@ -40,24 +22,6 @@
     },
     {
       "weight": 10,
-      "element": {
-        "location": "minecolonies:asian/house1",
-        "processors": "minecolonies:asian/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "minecolonies:asian/house2",
-        "processors": "minecolonies:asian/placeholder_replacement",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 8,
       "element": {
         "location": "minecolonies:asian/cook1",
         "processors": "minecolonies:asian/placeholder_replacement",
@@ -86,6 +50,15 @@
     {
       "weight": 10,
       "element": {
+        "location": "minecolonies:asian/field",
+        "processors": "minecolonies:asian/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
         "location": "minecolonies:asian/forester1",
         "processors": "minecolonies:asian/placeholder_replacement",
         "projection": "rigid",
@@ -102,7 +75,7 @@
       }
     },
     {
-      "weight": 5,
+      "weight": 12,
       "element": {
         "location": "minecolonies:asian/guardtower1",
         "processors": "minecolonies:asian/placeholder_replacement",
@@ -114,6 +87,42 @@
       "weight": 1,
       "element": {
         "location": "minecolonies:asian/guardtower2",
+        "processors": "minecolonies:asian/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecolonies:asian/house1",
+        "processors": "minecolonies:asian/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecolonies:asian/house2",
+        "processors": "minecolonies:asian/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecolonies:asian/housex1",
+        "processors": "minecolonies:asian/placeholder_replacement",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecolonies:asian/housex2",
         "processors": "minecolonies:asian/placeholder_replacement",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
